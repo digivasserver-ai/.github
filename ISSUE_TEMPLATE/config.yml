@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: mailto:divivas.server@gmail.com
+    about: Email divivas.server@gmail.com with SECURITY in the subject. Do not open a public issue.
+  - name: Question or usage help
+    url: https://github.com/digivasserver-ai
+    about: Open a discussion on the relevant repository if Discussions is enabled.
