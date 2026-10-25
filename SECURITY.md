@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Email **divivas.server@gmail.com** with `SECURITY` in the subject line.
+Email **digivas.server@gmail.com** with `SECURITY` in the subject line.
 
 Please do **not** open a public issue, and do not include exploit details in a pull request description.
 

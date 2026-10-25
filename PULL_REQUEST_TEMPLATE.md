@@ -19,4 +19,4 @@ $
 - [ ] One logical change (no unrelated reformatting)
 - [ ] Tests pass, or a reason why a test is impractical
 - [ ] No new dependency the standard library already covers
-- [ ] No security issue disclosed here (those go to divivas.server@gmail.com)
+- [ ] No security issue disclosed here (those go to digivas.server@gmail.com)

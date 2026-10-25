@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for the report. The fastest reports include a command I can paste.
-        Security issues go to divivas.server@gmail.com, not here.
+        Security issues go to digivas.server@gmail.com, not here.
   - type: input
     id: version
     attributes:

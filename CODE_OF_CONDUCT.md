@@ -45,7 +45,7 @@ individual is officially representing the community in public spaces.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported
-to **divivas.server@gmail.com**. All complaints will be reviewed and investigated
+to **digivas.server@gmail.com**. All complaints will be reviewed and investigated
 promptly and fairly. Maintainers are obligated to respect the privacy and security
 of the reporter of any incident.
 
